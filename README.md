@@ -1,6 +1,10 @@
 # How To Ask Informative Questions
 
+
 ## Table of Contents
+
+<details>
+  <summary>Click to toggle TOC</summary>
 
 - [Disclaimer](#disclaimer)
 - [Introduction](#introduction)
@@ -41,6 +45,8 @@
 - [Related Resources](#related-resources)
 - [Acknowledgements](#acknowledgements)
 - [Fork](#fork)
+
+</details>
 
 ## Disclaimer
 
