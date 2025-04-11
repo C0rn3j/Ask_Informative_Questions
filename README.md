@@ -455,18 +455,6 @@ Don't let yourself be drawn into a flamewar, either. Most flames are best ignore
 
 Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
 
-
-
-- Q: [Where can I find program or resource X?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474018960)
-- Q: [How can I use X to do Y?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474016288)
-- Q: [How can I configure my shell prompt?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474013936)
-- Q: [Can I convert an AcmeCorp document into a TeX file using the Bass-o-matic file converter?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474011312)
-- Q: [My {program, configuration, SQL statement} doesn't work](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474008752)
-- Q: [I'm having problems with my Windows machine. Can you help?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474004672)
-- Q: [My program doesn't work. I think system facility X is broken.](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060474001536)
-- Q: [I'm having problems installing Linux or X. Can you help?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060473999136)
-- Q: [How can I crack root/steal channel-ops privileges/read someone's e-mail?](http://www.catb.org/~esr/faqs/smart-questions.html#idm46060473994832)
-
 | **Q:** | Where can I find program or resource X?                      |
 | ------ | ------------------------------------------------------------ |
 | **A:** | The same place I'd find it, fool — at the other end of a web search. Ghod, doesn't everybody know how to use [Google](http://www.google.com/) yet? |
