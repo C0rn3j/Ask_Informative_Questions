@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Translations](#translations)
 - [Disclaimer](#disclaimer)
 - [Introduction](#introduction)
 - [Before You Ask](#before-you-ask)
@@ -569,12 +568,12 @@ If you need instruction in the basics of how personal computers, Unix, and the I
 
 When you release software or write patches for software, try to follow the guidelines in the [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html).
 
-## Source
+## Fork
 
 [Original](http://www.catb.org/~esr/faqs/smart-questions.html) by [Eric Steven Raymond](https://github.com/eric-s-raymond) and Rick Moen
 
 MD version taken from [@selfteaching](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way)
 
-
+MD version was forked to take out unhelpful information (like the revision table at the top of the page(why)), translations not kept in the repo(some dead already) and to change the language of the document a bit to not make it look like people are trying to offend the person they're just trying to get information out of.
 
 Evelyn Mitchell contributed some example stupid questions and inspired the “How To Give A Good Answer” section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
