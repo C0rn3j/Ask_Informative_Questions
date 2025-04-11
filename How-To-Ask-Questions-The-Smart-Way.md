@@ -1,49 +1,5 @@
-## How To Ask Questions The Smart Way
+# How To Ask Informative Questions
 
-### Eric Steven Raymond
-
-[Thyrsus Enterprises](http://www.catb.org/~esr/)
-
-
-```<esr@thyrsus.com>```
-
-
-### Rick Moen
-
-
-```<respond-auto@linuxmafia.com>```
-
-
-Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
-
-| **Revision History**                                         |             |      |
-| ------------------------------------------------------------ | ----------- | ---- |
-| Revision 3.10                                                | 21 May 2014 | esr  |
-| New section on Stack Overflow.                               |             |      |
-| Revision 3.9                                                 | 23 Apr 2013 | esr  |
-| URL fixes.                                                   |             |      |
-| Revision 3.8                                                 | 19 Jun 2012 | esr  |
-| URL fix.                                                     |             |      |
-| Revision 3.7                                                 | 06 Dec 2010 | esr  |
-| Helpful hints for ESL speakers.                              |             |      |
-| Revision 3.7                                                 | 02 Nov 2010 | esr  |
-| Several translations have disappeared.                       |             |      |
-| Revision 3.6                                                 | 19 Mar 2008 | esr  |
-| Minor update and new links.                                  |             |      |
-| Revision 3.5                                                 | 2 Jan 2008  | esr  |
-| Typo fix and some translation links.                         |             |      |
-| Revision 3.4                                                 | 24 Mar 2007 | esr  |
-| New section, "When asking about code".                       |             |      |
-| Revision 3.3                                                 | 29 Sep 2006 | esr  |
-| Folded in a good suggestion from Kai Niggemann.              |             |      |
-| Revision 3.2                                                 | 10 Jan 2006 | esr  |
-| Folded in edits from Rick Moen.                              |             |      |
-| Revision 3.1                                                 | 28 Oct 2004 | esr  |
-| Document 'Google is your friend!'                            |             |      |
-| Revision 3.0                                                 | 2 Feb 2004  | esr  |
-| Major addition of stuff about proper etiquette on Web forums. |             |      |
-
-------
 ## Table of Contents
 
 - [Translations](#translations)
@@ -85,10 +41,6 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 - [How To Answer Questions in a Helpful Way](#how-to-answer-questions-in-a-helpful-way)
 - [Related Resources](#related-resources)
 - [Acknowledgements](#acknowledgements)
-
-## Translations
-
-Translations: [Bahasa Indonesian](http://bulsara.host.sk/index.php?p=2005) [Belorussian](https://www.dussk.co/translation/ask-smart-questions/) [Brazilo-Portuguese](http://blogofscience.com/perguntas.html) [Chinese (Traditional)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) [Croatian](http://www.bildelestore.dk/blog/kako-postavljati-pitanja-na-pametan-nacin) [Czech](http://scientificachievements.com/jak-se-ptat-chytry-zpusob/) [Dutch](http://docs.jaspervries.nl/smart-questions/) [Estonian](http://glory4cars.com/edu/kuidas-esitada-kusimusi-nutikas-viis/) [French](http://www.gnurou.org/documents/smart-questions-fr.html) [Georgian](http://maxo127.narod.ru/Geo/Articles/smart-questions_ge.html) [German](http://www.tty1.net/smart-questions_de.html) [Greek](http://www.dionyziz.com/howto-smart-questions-gr/) [Hindi](http://kntuniversity.org/how-to-ask-questions-the-smart-way/) [Hungarian](http://www.forallworld.com/milyen-kerdeseket-okosan/) [Irish Gaelic](http://www.autoteileprofi.ch/blog/2016/04/01/newly-sin-iarr-ar-kuestions-tkhe-smart-wai) [Indonesion](https://www.chameleonjohn.com/translations/smart-questions-Indonesian)[Japanese](http://www.ranvis.com/articles/smart-questions.ja.html) [Lithuanian](http://myscres.com/articles/kaip-uzduoti-klausimus-protinga-buda.html) [Polish](http://rtfm.killfile.pl/) [Portuguese](http://science-lakes.com/article43.html) [Romanian](http://wiki.lug.ro/mediawiki/index.php/Cum_se_pun_%C3%AEntreb%C4%83ri_%C3%AEn_mod_inteligent) [Russian](http://maddog.sitengine.ru/smart-question-ru.html) [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian) [Spanish](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) [Uzbek](http://www.bestcarzin.com/blog/smart-questions-uzb/) If you want to copy, mirror, translate, or excerpt this document, please see my [copying policy](http://www.catb.org/~esr/copying.html).
 
 ## Disclaimer
 
@@ -617,6 +569,10 @@ If you need instruction in the basics of how personal computers, Unix, and the I
 
 When you release software or write patches for software, try to follow the guidelines in the [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html).
 
-## Acknowledgements
+## Source
+
+[Original](http://www.catb.org/~esr/faqs/smart-questions.html) by [Eric Steven Raymond](https://github.com/eric-s-raymond) and Rick Moen
+
+
 
 Evelyn Mitchell contributed some example stupid questions and inspired the “How To Give A Good Answer” section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
