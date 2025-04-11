@@ -456,7 +456,6 @@ Don't let yourself be drawn into a flamewar, either. Most flames are best ignore
 Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
 
 | **Q:** | Where can I find program or resource X?                      |
-| ------ | ------------------------------------------------------------ |
 | **A:** | The same place I'd find it, fool — at the other end of a web search. Ghod, doesn't everybody know how to use [Google](http://www.google.com/) yet? |
 | **Q:** | How can I use X to do Y?                                     |
 | **A:** | If what you want is to do Y, you should ask that question without pre-supposing the use of a method that may not be appropriate. Questions of this form often indicate a person who is not merely ignorant about X, but confused about what problem Y they are solving and too fixated on the details of their particular situation. It is generally best to ignore such people until they define their problem better. |
