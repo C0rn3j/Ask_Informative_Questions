@@ -573,6 +573,8 @@ When you release software or write patches for software, try to follow the guide
 
 [Original](http://www.catb.org/~esr/faqs/smart-questions.html) by [Eric Steven Raymond](https://github.com/eric-s-raymond) and Rick Moen
 
+MD version taken from [@selfteaching](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way)
+
 
 
 Evelyn Mitchell contributed some example stupid questions and inspired the “How To Give A Good Answer” section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
