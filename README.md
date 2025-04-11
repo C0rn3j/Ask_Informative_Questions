@@ -455,6 +455,8 @@ Don't let yourself be drawn into a flamewar, either. Most flames are best ignore
 
 Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
 
+|||
+| ------ | ------------------------------------------------------------ |
 | **Q:** | Where can I find program or resource X?                      |
 | **A:** | The same place I'd find it, fool — at the other end of a web search. Ghod, doesn't everybody know how to use [Google](http://www.google.com/) yet? |
 | **Q:** | How can I use X to do Y?                                     |
